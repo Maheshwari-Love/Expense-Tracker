@@ -25,7 +25,7 @@ app.use(express.json()); //express.json is used for parsing json data
 //routes
 
 app.get("/", (req,res) =>{
-    res.send('<h1>Hello from server</h1>')
+    res.send('<h1>Hello from server  jijhbh n</h1>')
 })
 
 //PORT
